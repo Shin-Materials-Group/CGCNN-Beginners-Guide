@@ -136,7 +136,7 @@ usage: main.py [-h]
 
 ### 🔷 모델 동작 파일
 
-.py 파일은 쉽게 말해 레시피라고 생각하면 된다. 우리가 레시피를 보고 요리하듯이, .py 파일을 실행시킴으로써 모델이 작동할 수 있는 코드를 동작시키는 것이다.
+.py 파일은 일종의의 레시피라고 생각하면 된다. 우리가 레시피를 보고 요리하듯이, .py 파일을 실행시킴으로써 모델이 작동할 수 있는 코드를 동작시키는 것이다.
 
 - `main.py` : CGCNN의 핵심 원리가 구현되는 코드로, MP로부터 결정구조(id)를 input으로 받아 물성(property)을 output으로 내놓는다.
 
@@ -182,7 +182,7 @@ def __init__(self, root_dir, max_num_nbr=12, radius=8, dmin=0, step=0.2,
 
 ## 📌 샘플 데이터 훈련 (txie-93 github version)
 
-우선 적은 데이터를 가지고 훈련해보기 위해, sample-regression이라는 폴더에 input 데이터를 모두 구성해놓았다.
+우선 적은 수의 데이터를 가지고 모델을 훈련시켜보기 위해 'sample-regression'이라는 폴더에 input 데이터를 모두 구성해놓았다.
 
 main.py는 'cgcnn-master' 폴더에 들어있기 때문에 다음과 같이 이 폴더의 경로에서 시작해야 한다.
 
