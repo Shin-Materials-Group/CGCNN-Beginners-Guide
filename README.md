@@ -5,13 +5,12 @@ CGCNN은 Jeffrey C. Grossman 교수님과 Tian Xie 박사님이 개발한 소재
 
 이 논문에서 다루고 있는 모델의 실습 코드는 <https://github.com/txie-93/cgcnn?tab=readme-ov-file>에서 다운받을 수 있다.
 
-하지만 위 github의 데이터셋은 크기가 매우 작아 실습을 진행하는 데 부족함이 있기에, KIST 김동훈 박사님이 기존 github 데이터셋에 새로운 dataset과 보조기능 코드를 추가한 google colab 자료를 제공하고 있다. 
+하지만 위 github의 데이터셋은 크기가 매우 작아 실습을 진행하는 데 부족함이 있기에, KIST 김동훈 박사님이 기존 github 데이터셋에 새로운 데이터셋과 보조기능 코드를 추가한 google colab 자료를 제공하고 있다. 
 
 <https://drive.google.com/drive/folders/1HbxgZYCAJWynwFCwgWxfeg4-SrlWs0Gm>
 
 이 튜토리얼은 상단의 dataset을 가지고 진행한 CGCNN 실습을 step-by-step으로 나타낸 것이다.
 구글 드라이브에서 제공하는 데이터를 전부 다운로드 후, 압축 해제하면 된다. 
-
 
 
 
